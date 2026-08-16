@@ -1,0 +1,20 @@
+body { 
+    background: #1a1a2e; 
+    color: white; 
+    text-align: center; 
+    font-family: Arial; 
+}
+.container { 
+    margin-top: 100px; 
+}
+#tapBtn { 
+    padding: 30px 60px; 
+    font-size: 24px; 
+    background: #ffcc00; 
+    border: none; 
+    border-radius: 20px; 
+    cursor: pointer; 
+}
+#tapBtn:active { 
+    transform: scale(0.9); 
+}
